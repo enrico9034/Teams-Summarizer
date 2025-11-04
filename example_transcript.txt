@@ -1,0 +1,21 @@
+Mario Rossi: Buongiorno a tutti, grazie per essere qui. Oggi discuteremo il progetto Q4 e le priorità per il prossimo trimestre.
+
+Laura Bianchi: Ciao Mario, perfetto. Ho preparato alcuni dati sulle performance del Q3 che vorrei condividere.
+
+Mario Rossi: Ottimo, prego vai pure.
+
+Laura Bianchi: Allora, abbiamo raggiunto il 95% degli obiettivi di vendita nel Q3, con un incremento del 15% rispetto al Q2. I prodotti più venduti sono stati X e Y.
+
+Giovanni Verdi: Molto bene! Per quanto riguarda il Q4, propongo di concentrarci sul lancio del nuovo prodotto Z. Ho fatto un'analisi di mercato e c'è grande interesse.
+
+Mario Rossi: Interessante Giovanni. Quali sono i tempi previsti?
+
+Giovanni Verdi: Potremmo lanciare entro fine novembre se partiamo subito con lo sviluppo. Servono però risorse aggiuntive nel team di sviluppo.
+
+Laura Bianchi: Concordo con Giovanni. Inoltre suggerirei di pianificare una campagna marketing per dicembre, in vista delle festività.
+
+Mario Rossi: Perfetto. Allora ricapitoliamo: 1) Allocare risorse per sviluppo prodotto Z, 2) Pianificare campagna marketing dicembre. Qualcuno ha altro da aggiungere?
+
+Giovanni Verdi: Sì, vorrei proporre una revisione dei processi interni per migliorare l'efficienza del 20%.
+
+Mario Rossi: Ok, ne discuteremo nel prossimo meeting. Per oggi direi che possiamo concludere. Grazie a tutti!
